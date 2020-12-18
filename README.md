@@ -1,4 +1,4 @@
 # movie-ql
 Movie API with GraphQL
 
-<img src="images/screenshot.png" width="35%" height="25%" >
+<img src="images/screenshot.png" >
